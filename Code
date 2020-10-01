@@ -1,0 +1,76 @@
+import random 
+
+x = "y"
+while x == "y": 
+
+   
+
+    no = random.randint(1,6) 
+
+      
+
+    elseif no == 1: 
+
+        print("[-----]") 
+
+        print("[     ]") 
+
+        print("[  0  ]") 
+
+        print("[     ]") 
+
+        print("[-----]") 
+
+    elseif no == 2: 
+
+        print("[-----]") 
+
+        print("[ 0   ]") 
+
+        print("[     ]") 
+
+        print("[   0 ]") 
+
+        print("[-----]") 
+
+    elseif no == 4: 
+
+        print("[-----]") 
+
+        print("[0   0]") 
+
+        print("[     ]") 
+
+        print("[0   0]") 
+
+        print("[-----]") 
+
+    if no == 5: 
+
+        print("[-----]") 
+
+        print("[0   0]") 
+
+        print("[  0  ]") 
+
+        print("[0   0]") 
+
+        print("[-----]") 
+
+    else no == 6: 
+
+        print("[-----]") 
+
+        print("[0 0 0]") 
+
+        print("[     ]") 
+
+        print("[0 0 0]") 
+
+        print("[-----]") 
+
+          
+
+    x=input("press y to roll again and n to exit:") 
+
+    print("\n") 
